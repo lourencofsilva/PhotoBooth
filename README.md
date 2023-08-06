@@ -6,7 +6,7 @@ The application retrieves photos captured from a linked camera and displays them
 
 
 
-![](https://lourencofsilva.github.io/demo/photobooth/desktop1.png)
+![](https://www.lourencofsilva.com/demo/photobooth/desktop1.png)
 
 ## License
 
